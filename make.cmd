@@ -10,6 +10,7 @@ if "%SPHINXBUILD%" == "" (
 set SOURCEDIR=.
 set BUILDDIR=docs/_build
 set TARGET=html
+rem html, singlehtml, dirhtml
 
 %SPHINXBUILD% >NUL 2>NUL
 if errorlevel 9009 (
