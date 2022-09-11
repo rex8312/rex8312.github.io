@@ -1,0 +1,35 @@
+.. rex8312.github.io documentation master file, created by
+   sphinx-quickstart on Mon Sep 12 04:56:35 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to rex8312.github.io's documentation!
+=============================================
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Contents:
+
+
+.. include:: README.rst
+
+
+
+Tutorial
+========
+ 
+.. toctree::
+   :maxdepth: 4
+ 
+   Test 00 <docs/test.rst>
+   Test 01 <pages/01-test.rst>
+
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
