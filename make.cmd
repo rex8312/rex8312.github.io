@@ -8,7 +8,7 @@ if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
 set SOURCEDIR=.
-set BUILDDIR=docs/_build
+set BUILDDIR=docsrc/_build
 set TARGET=html
 rem html, singlehtml, dirhtml
 
@@ -26,7 +26,7 @@ if errorlevel 9009 (
 )
 
 rem %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% -c docs
-%SPHINXBUILD% -M %TARGET% %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% -c docs
+%SPHINXBUILD% -M %TARGET% %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% -c docsrc
 @REM index.html
 goto end
 
