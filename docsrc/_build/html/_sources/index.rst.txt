@@ -6,13 +6,7 @@
 Welcome to rex8312.github.io's documentation!
 =============================================
 
-.. toctree::
-   :maxdepth: 4
-   :caption: Contents:
-
-
 .. include:: README.rst
-
 
 
 Tutorial
@@ -22,7 +16,7 @@ Tutorial
    :maxdepth: 4
  
    Test 00 <docsrc/test.rst>
-   Test 01 <pages/01-test.rst>
+   Test 01 <2022-09-13_make_docs/01-test.rst>
 
 
 
