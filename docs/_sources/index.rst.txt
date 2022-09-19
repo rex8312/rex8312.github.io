@@ -15,8 +15,8 @@ Tutorial
 .. toctree::
    :maxdepth: 4
  
-   Test 00 <docsrc/test.rst>
-   Test 01 <2022-09-13_make_docs/01-test.rst>
+   Test 00 <doc_src/test.rst>
+..    Test 01 <2022-09-13_make_docs/01-test.rst>
 
 
 
